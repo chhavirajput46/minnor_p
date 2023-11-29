@@ -1,0 +1,7 @@
+pip install streamlit
+pip install streamlit_authenticator
+pip install pydub
+pip install pathlib
+pip install libsora
+pip install -U demucs Soundfile
+pip install lottie
